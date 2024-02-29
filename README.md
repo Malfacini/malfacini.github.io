@@ -1,4 +1,15 @@
-# malfacini.github.io
-My Github Portfolio using Github Pages
+# Data Scientist
 
-My Portfolio README.md
+### Education
+
+Oklahoma State University, bs, Economics and Finance
+
+### Work Experience
+
+##### Fair Trade USA
+
+##### Sunrun
+
+### Projects
+
+##### Predicting wine varietals
